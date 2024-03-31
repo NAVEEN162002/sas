@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-
+import { fetchDataFromBackend } from '../services/backendService';
 export default function StudentsData() {
   const [students, setStudents] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
