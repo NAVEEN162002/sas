@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-
+const PORT = process.env.PORT || 5000
 // Modal component
 function Modal({ isOpen, onClose, onConfirm, studentId }) {
   const [password, setPassword] = useState('');
@@ -57,7 +57,7 @@ export default function StudentsAttendance() {
   // Fetch student data from the server when the component mounts
   useEffect(() => {
     axios
-      .get("https://sas-server-5e8c.onrender.com")
+      .get(PORT)
       .then((res) => {
         setStudents(res.data);
       })
