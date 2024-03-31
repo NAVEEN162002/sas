@@ -8,7 +8,7 @@ export default function StudentsData() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5000/students")
+      .get("https://sas-server-5e8c.onrender.com")
       .then((res) => {
         setStudents(res.data);
       })
