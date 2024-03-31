@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-
+const PORT = process.env.PORT || 5000
 export default function StudentsData() {
   const [students, setStudents] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
@@ -8,7 +8,7 @@ export default function StudentsData() {
 
   useEffect(() => {
     axios
-      .get("https://sas-server-5e8c.onrender.com")
+      .get(PORT)
       .then((res) => {
         setStudents(res.data);
       })
