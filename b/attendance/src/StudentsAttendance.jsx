@@ -57,7 +57,7 @@ export default function StudentsAttendance() {
   // Fetch student data from the server when the component mounts
   useEffect(() => {
     axios
-      .get('http://localhost:5000/students')
+      .get('https://sas-server-5e8c.onrender.com')
       .then((res) => {
         setStudents(res.data);
       })
