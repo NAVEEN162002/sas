@@ -12,4 +12,5 @@ Objective:
 
 # SMART ATTENDANCE SYSTEM WEBPAGE
 ![image](https://github.com/NAVEEN162002/sas/blob/main/major_pics/Welcome_page.jpg)
+![image](https://github.com/NAVEEN162002/sas/assets/81414412/a9d4850b-eec6-478b-8b0b-c72d736579b4)
 ![image](https://github.com/NAVEEN162002/sas/assets/81414412/614ad939-f437-4e80-979f-29ed8567083e)
