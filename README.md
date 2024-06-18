@@ -2,7 +2,7 @@
 
 Objective: 
 
-==>Incorporate Convolutional Neural Networks (CNN) to automate class attendance tracking and to Achieve a significant reduction in manual processes to enhance overall system accuracy.
+==>Incorporate Convolutional Neural Networks (CNN) to automate class attendance tracking and to achieve a significant reduction in manual processes to enhance overall system accuracy.
 # MTCNN_detect_pic
 ![mtcnn_detect_pic ](https://github.com/NAVEEN162002/sas/blob/main/major_pics/mtcnn_detect_pic.jpg)
 
