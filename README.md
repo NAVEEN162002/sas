@@ -1,15 +1,15 @@
-# SMART ATTENDANCE SYSTEM![Uploading image.png…]()
+# SMART ATTENDANCE SYSTEM
 
-Objective: Develop and implement a Smart Attendance System:
-Incorporate Convolutional Neural Networks (CNN) to automate class attendance tracking.
-Achieve a significant reduction in manual processes to enhance overall system accuracy.
-Establish User ID Authentication on Webpage:
-Improve user accessibility and security through the implementation of a robust authentication system.
-Streamline the authentication process to ensure a seamless and efficient user experience.
+Objective: 
 
-Thanks!
+==>Incorporate Convolutional Neural Networks (CNN) to automate class attendance tracking and to Achieve a significant reduction in manual processes to enhance overall system accuracy.
+# MTCNN_detect_pic
+![mtcnn_detect_pic ](https://github.com/NAVEEN162002/sas/blob/main/major_pics/mtcnn_detect_pic.jpg)
 
-![Superstore sales dashboard image ](https://github.com/MeenakshiDevara/SuperStore-Sales-DataAnalysis-Report-using-PowerBI/assets/70430811/70d1c90b-ce6c-495e-86db-242826aa7101)
+# Automated Notifications from Smart Attendance System
+![Automated Notifications from Smart Attendance System](https://github.com/NAVEEN162002/sas/blob/main/major_pics/msg.jpg)
+![image](https://github.com/NAVEEN162002/sas/assets/81414412/c6ba02ad-06d5-4afd-a413-6ff2ef6b6d8a)
 
-
-![Superstore  sales forecast for 15 days image](https://github.com/MeenakshiDevara/SuperStore-Sales-DataAnalysis-Report-using-PowerBI/assets/70430811/48be8aa1-21e6-4cd3-9973-9d8b77847dab)
+# SMART ATTENDANCE SYSTEM WEBPAGE
+![image](https://github.com/NAVEEN162002/sas/blob/main/major_pics/Welcome_page.jpg)
+![image](https://github.com/NAVEEN162002/sas/assets/81414412/614ad939-f437-4e80-979f-29ed8567083e)
