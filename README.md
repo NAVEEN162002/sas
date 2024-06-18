@@ -1,12 +1,11 @@
-# SuperStore-Sales-DataAnalysis-Dashbaord-using-PowerBI
-Objective: To contribute to the success of a business  by utilizing data analysis techniques, specially focusing on time series analysis, to provide valuable insights & accurate sales forecasting. 
-Based on the sales data we have, I will be forecasting the sales on the upcoming 15 days.
+# SMART ATTENDANCE SYSTEM![Uploading image.png…]()
 
-This project contains:
-1. Dashboard Creation
-2. Data Analysis
-3. Sales Forecasting
-4. Actionable insights & recommendations
+Objective: Develop and implement a Smart Attendance System:
+Incorporate Convolutional Neural Networks (CNN) to automate class attendance tracking.
+Achieve a significant reduction in manual processes to enhance overall system accuracy.
+Establish User ID Authentication on Webpage:
+Improve user accessibility and security through the implementation of a robust authentication system.
+Streamline the authentication process to ensure a seamless and efficient user experience.
 
 Thanks!
 
