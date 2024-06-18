@@ -11,9 +11,9 @@ def read_attendance_data(file_path):
 # Function to send attendance status via SMS to each phone number
 def send_attendance_status(attendance_data):
     # Twilio credentials
-    account_sid = 'ACbcd261952ac9f22bbe8ad2fa6510a441'
-    auth_token = 'd9c284b23bbd6bf45aa05b8e0abe6f70'
-    twilio_phone_number = '+12722362316'  # Twilio phone number
+    account_sid = 'ACbcd261952ac9f22bbe8ad2fa6510****'
+    auth_token = 'd9c284b23bbd6bf45aa05b8e0abe*****'
+    twilio_phone_number = '+1272236****'  # Twilio phone number
 
     # Initialize Twilio client
     client = Client(account_sid, auth_token)
