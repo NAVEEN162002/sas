@@ -4,7 +4,7 @@ Objective:
 
 ==>Incorporate Convolutional Neural Networks (CNN) to automate class attendance tracking and to achieve a significant reduction in manual processes to enhance overall system accuracy.
 # MTCNN_detect_pic
-![mtcnn_detect_pic ](https://github.com/NAVEEN162002/sas/blob/main/major_pics/mtcnn_detect_pic.jpg)
+![mtcnn_detect_pic ]##(https://github.com/NAVEEN162002/sas/blob/main/major_pics/mtcnn_detect_pic.jpg)##
 
 # Automated Notifications from Smart Attendance System
 ![Automated Notifications from Smart Attendance System](https://github.com/NAVEEN162002/sas/blob/main/major_pics/msg.jpg)
